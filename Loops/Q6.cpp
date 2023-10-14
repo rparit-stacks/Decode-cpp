@@ -3,12 +3,12 @@
 using namespace std;
 int main()
 {
-    
-
-    for( char i = 'A'; i <= 'Z'; i++)
+    char i = 'A';
+    while(i <= 'Z')
     {
         int j = (int)i;
         cout<<"The ASCII value of "<<i<<" = "<<j<<endl;
+        i++;
     }
     return 0;
 }
