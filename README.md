@@ -52,7 +52,7 @@ Dive into the folders, explore the code, and let it be your guide in the world o
 
 ## 🌈 Additional Information
 
-- **Author:** [Your Name](https://link-to-your-profile.com)
+- **Author:** [Rohit Parit](https://github.com/rparit-stacks))
 - **License:** [MIT License](./LICENSE)
 - **Contributions:** Contributions are welcome! Fork the repository, create a new branch, and make your improvements. Submit a pull request, and let's make this repository even more extraordinary.
 
