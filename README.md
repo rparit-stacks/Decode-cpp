@@ -1,33 +1,60 @@
-# 🌟 PW Skills Academy Assignments Repository 🚀
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Physics_wallah_logo.jpg" alt="PW Skills Academy Logo" width="100">
+</p>
 
-## Overview
+<h1 align="center">PW Skills Academy Assignments</h1>
 
-Welcome to my PW Skills Academy Assignments repository! Here, you'll find a collection of creative and well-crafted solutions to various programming assignments in C++. Dive in and explore the world of code with me!
+<p align="center">
+  Explore my collection of elegant C++ solutions to various programming assignments in the PW Skills Academy.
+</p>
 
 ## 📂 Directory Structure
 
-- **[.vscode](./.vscode):** Hidden magic for Visual Studio Code.
-- **[Array](./Array):** The heart of sequences - Arrays!
-- **[Assignment L1](./Assignment%20L1):** Journey to Assignment 1 completion.
-- **[Assignment L3(If else)](./Assignment%20L3(If%20else)):** Navigating the twists of conditional logic.
-- **[C++ Assignments 2](./C++%20Assignments%202):** Conquering Assignment 2 in the C++ realm.
-- **[Conditionals-2](./Conditionals-2):** Unleashing the power of decisions in Assignment 4.
-- **[Function](./Function):** A symphony of functions playing in harmony.
-- **[Loops Assignment 1](./Loops%20Assignment%201):** Looping through the first assignment adventure.
-- **[Loops Assignment 2](./Loops%20Assignment%202):** The sequel to the looping saga.
-- **[Pattern assignment 1](./Pattern%20assignment%201):** Crafting art with code in Pattern Assignment 1.
-- **[Pointers](./Pointers):** Navigating memory with the magical pointers.
+<p align="center">
+  <a href="./.vscode">
+    <img src="https://img.shields.io/badge/.vscode-Settings-blueviolet?style=for-the-badge&labelColor=2c2c2c&logoWidth=20&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABXElEQVR42mJ4T8DQQRBFD0VH0UEFOYABNsQQUwUAUoMBuBQNEIAAEiGABSoMBUBkQgIAASIYAFCgwFQGRC0VAwAARIgAFKDAVAbkFNUQ4AAAQAsDS/CzfvXOAAAAAElFTkSuQmCC">
+  </a>
+  <a href="./Array">
+    <img src="https://img.shields.io/badge/Array-Sequences-blue?style=for-the-badge&labelColor=2c2c2c">
+  </a>
+  <a href="./Assignment%20L1">
+    <img src="https://img.shields.io/badge/Assignment%20L1-Complete-blue?style=for-the-badge&labelColor=2c2c2c">
+  </a>
+  <a href="./Assignment%20L3(If%20else)">
+    <img src="https://img.shields.io/badge/Assignment%20L3(If%20else)-Conditions-blue?style=for-the-badge&labelColor=2c2c2c">
+  </a>
+  <a href="./C++%20Assignments%202">
+    <img src="https://img.shields.io/badge/C%2B%2B%20Assignments%202-Conquer-blue?style=for-the-badge&labelColor=2c2c2c">
+  </a>
+  <a href="./Conditionals-2">
+    <img src="https://img.shields.io/badge/Conditionals--2-Decisions-blue?style=for-the-badge&labelColor=2c2c2c">
+  </a>
+  <a href="./Function">
+    <img src="https://img.shields.io/badge/Function-Harmony-blue?style=for-the-badge&labelColor=2c2c2c">
+  </a>
+  <a href="./Loops%20Assignment%201">
+    <img src="https://img.shields.io/badge/Loops%20Assignment%201-Looping-blue?style=for-the-badge&labelColor=2c2c2c">
+  </a>
+  <a href="./Loops%20Assignment%202">
+    <img src="https://img.shields.io/badge/Loops%20Assignment%202-Sequel-blue?style=for-the-badge&labelColor=2c2c2c">
+  </a>
+  <a href="./Pattern%20assignment%201">
+    <img src="https://img.shields.io/badge/Pattern%20assignment%201-Art-blue?style=for-the-badge&labelColor=2c2c2c">
+  </a>
+  <a href="./Pointers">
+    <img src="https://img.shields.io/badge/Pointers-Navigation-blue?style=for-the-badge&labelColor=2c2c2c">
+  </a>
+</p>
 
 ## 🚀 Getting Started
 
-Feel free to explore the folders, peek into the code, and use it as your code compass. If you have any questions, ideas, or improvements, let's embark on this coding journey together! Create an issue or pull request, and let's make this repository even more awesome!
+Dive into the folders, explore the code, and let it be your guide in the world of programming. Each assignment folder is crafted with elegance and precision. If you have questions or ideas, join me on this coding journey by creating an issue or pull request.
 
-## 🌈 Author
+## 🌈 Additional Information
 
-Rohit Parit
+- **Author:** [Your Name](https://link-to-your-profile.com)
+- **License:** [MIT License](./LICENSE)
+- **Contributions:** Contributions are welcome! Fork the repository, create a new branch, and make your improvements. Submit a pull request, and let's make this repository even more extraordinary.
 
-## 📝 License
-
-This project is licensed under the [MIT License](./LICENSE).
 
 Happy coding! 🚀✨
