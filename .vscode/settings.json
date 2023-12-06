@@ -3,7 +3,8 @@
     "iostream": "cpp",
     "ostream": "cpp",
     "random": "cpp",
-    "*.tcc": "cpp"
+    "*.tcc": "cpp",
+    "vector": "cpp"
   },
   "C_Cpp_Runner.cCompilerPath": "gcc",
   "C_Cpp_Runner.cppCompilerPath": "g++",

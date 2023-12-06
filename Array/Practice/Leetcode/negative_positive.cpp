@@ -1,11 +1,6 @@
-//Given an array of integers, change the value of all odd indexed elements to its second multiple and increment all even indexed values by 10.
-
-
 #include<iostream>
 #include<vector>
-
 using namespace std;
-
 void display(vector<int>&vec)
 {
     for(int i = 0; i < vec.size(); i++)
@@ -13,10 +8,10 @@ void display(vector<int>&vec)
         cout<<vec[i]<<" ";
     }
 }
-int main()
+int main() 
 {
-    vector<int> vec;
-     
+    vector<int>vec;
+    
      for(int i=0;i<=5;i++) 
     {
         int m;
@@ -25,18 +20,22 @@ int main()
         vec.push_back(m);
     }
     display(vec);
-    
-    for(int i = 0; i < vec.size(); i++)
+
+    for(int i=0, j = vec.size()-1; i<j; i++,j--)
     {
-        if(i%2 == 0)
+        if(vec[i]<0) i++;
+        if(vec[j]>0) j--;
+        if(i>j) break;
+        if(vec[i]>0 && vec[j]<0) 
         {
-            vec[i] = vec[i] + 10;
+            int temp = vec[i];
+            vec[i] = vec[j];
+            vec[j] = temp;
         }
-        else{
-            vec[i] = vec[i] * 2;
-        }
+
     }
-    cout<<"\n";
+
+    cout<<endl;
     display(vec);
+   
 }
- 
