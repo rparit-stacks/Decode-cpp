@@ -63,6 +63,7 @@
     "deque": "cpp",
     "string": "cpp",
     "vector": "cpp",
-    "unordered_map": "cpp"
+    "unordered_map": "cpp",
+    "cmath": "cpp"
   }
 }
