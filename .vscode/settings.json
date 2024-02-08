@@ -76,6 +76,11 @@
     "random": "cpp",
     "limits": "cpp",
     "valarray": "cpp",
-    "chrono": "cpp"
+    "chrono": "cpp",
+    "list": "cpp",
+    "forward_list": "cpp",
+    "unordered_set": "cpp",
+    "initializer_list": "cpp",
+    "regex": "cpp"
   }
 }
