@@ -1,17 +1,18 @@
-#include<iostream>
+#include <iostream>
 using namespace std;
 
-int factorial(int num)
+int factorial(long long num)
 {
-    int n = 1;
-    if(num == 0) return n;
-    else n = num * factorial(num -1);
+    long long n = 1;
+    if (num == 0)
+        return n;
+    else
+        n = num * factorial(num - 1);
 }
-
 
 int main()
 {
-    int num = 9;
+    long long num = 15;
 
-    cout<< factorial(num);
+    cout << factorial(num);
 }
