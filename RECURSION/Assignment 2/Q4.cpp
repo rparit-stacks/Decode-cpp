@@ -18,6 +18,6 @@ void sum_triangle(vector<int> nums, int n)
 }
 int main()
 {
-    vector<int> nums = {5, 4, 3, 2, 1};
+    vector<int> nums = {1,2,3,4,5,};
     sum_triangle(nums, nums.size());
 }
