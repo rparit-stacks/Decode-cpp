@@ -1,0 +1,46 @@
+#include<iostream>
+using namespace std;
+
+int main()
+{
+    int a;
+    cout<<"Enter the number: ";
+    cin>>a;
+    
+    int r = a-1, l = a-1, flag = 1;
+
+    for(int i = 1; i <= a; i++)
+    {
+        int t = 1;
+        if(i==1)
+        for(int j = 1; j<=(a*2)-1; j++){
+            cout<<t<<" ";
+            t++;
+        }
+
+        else if(i>1)
+        {
+            int m = 1;
+            int n = a+1;
+            for(int p = 1; p <= r; p++){
+                cout<<m<<" ";
+                m++;
+            }
+            for(int q = 1; q <= flag; q++) 
+            {
+                cout<<"   ";
+                m++;
+            }
+            for(int s = 1; s <= l; s++) {
+                cout<<m<<" ";
+                m++;
+            }
+            r--;
+            l--;
+            flag+=2;
+        }
+        
+        cout<<endl;
+    }
+    return 0;
+}
