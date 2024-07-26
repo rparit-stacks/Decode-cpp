@@ -35,6 +35,7 @@ public:
     void pushAt(int n, int val);
     void setValeAt(int n, int val);
     void deleteNode(Node* node);
+    void swapNodes(Node* head);
 };
 
 int List::atIndex(int n) {
