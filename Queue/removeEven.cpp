@@ -15,7 +15,7 @@ void evenQueue(queue<int> &temp) {
     queue<int> stemp;
     int i = 0;
     while (!temp.empty()) {
-        if (i % 2 == 0) {
+        if (i % 2 != 0) {
             stemp.push(temp.front());
         }
         temp.pop();
